@@ -1,0 +1,33 @@
+
+.devo{
+    background-color: rgb(0, 174, 255);
+    padding: 40px;
+    text-align: center;
+    border-radius: 45px;
+    border:solid 1px;
+    box-shadow: 6px 6px 0px rgb(0, 94, 138);
+    
+    
+}
+.inp{
+    height: 30px;
+    border-radius: 10px;
+    border:solid 1px;
+    box-shadow: 3px 3px 0px rgb(0, 94, 138);
+
+}
+.but{
+    height: 30px;
+    border-radius: 10px;
+    border:solid 1px;  
+    background-color: rgb(100, 206, 255);
+    box-shadow: 3px 3px 0px rgb(0, 94, 138);
+
+}
+body{
+    text-align: center;
+}
+
+.body{
+    text-align: center;
+}
